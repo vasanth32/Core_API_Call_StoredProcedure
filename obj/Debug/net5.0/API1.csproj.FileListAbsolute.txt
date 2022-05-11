@@ -1,0 +1,97 @@
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\appsettings.json
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\API1.exe
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\API1.deps.json
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\API1.runtimeconfig.json
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\API1.runtimeconfig.dev.json
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\API1.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\ref\API1.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\API1.pdb
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\API1.csproj.AssemblyReference.cache
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\API1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\API1.AssemblyInfoInputs.cache
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\API1.AssemblyInfo.cs
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\API1.csproj.CoreCompileInputs.cache
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\API1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\API1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\scopedcss\bundle\API1.styles.css
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\staticwebassets\API1.StaticWebAssets.Manifest.cache
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\API1.RazorTargetAssemblyInfo.cache
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\API1.csproj.CopyComplete
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\API1.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\ref\API1.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\API1.pdb
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\obj\Debug\net5.0\API1.genruntimeconfig.cache
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\kamal\OneDrive\Desktop\.Net Course\API1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\appsettings.Development.json
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\appsettings.json
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\API1.exe
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\API1.deps.json
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\API1.runtimeconfig.json
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\API1.runtimeconfig.dev.json
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\API1.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\API1.pdb
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\EntityFramework.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\System.Data.SqlClient.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\@udemy\Projects\EfWithStpredProcedure\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\API1.csproj.AssemblyReference.cache
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\API1.GeneratedMSBuildEditorConfig.editorconfig
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\API1.AssemblyInfoInputs.cache
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\API1.AssemblyInfo.cs
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\API1.csproj.CoreCompileInputs.cache
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\API1.MvcApplicationPartsAssemblyInfo.cs
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\API1.MvcApplicationPartsAssemblyInfo.cache
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\scopedcss\bundle\API1.styles.css
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\staticwebassets\API1.StaticWebAssets.Manifest.cache
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\API1.RazorTargetAssemblyInfo.cache
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\API1.csproj.CopyComplete
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\API1.dll
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\refint\API1.dll
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\API1.pdb
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\API1.genruntimeconfig.cache
+E:\@udemy\Projects\EfWithStpredProcedure\obj\Debug\net5.0\ref\API1.dll
