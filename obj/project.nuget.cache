@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q7h+Qt9PglCUjXP3xf2cLoY3kfojGdeoOb8IeJNfrDWFBJdbpdFnNNPwCIB8/Xre0EUNGgccFlRr3XvlwNxVYQ==",
+  "dgSpecHash": "vHs8qhnJmjTtfe614OfHoCFrbKfAQku2M//UII88Q5/MwlEb+6/H6z+euN+9uplnyg6I+/VHN1wXuy/OpYgXHA==",
   "success": true,
-  "projectFilePath": "E:\\@udemy\\Projects\\EfWithStpredProcedure\\API1.csproj",
+  "projectFilePath": "E:\\@udemy\\Class\\EfWithStpredProcedure\\API1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vasan\\.nuget\\packages\\entityframework\\5.0.0\\entityframework.5.0.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

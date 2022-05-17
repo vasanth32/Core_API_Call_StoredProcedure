@@ -8,5 +8,6 @@ namespace API1.Model
     public interface IStudentRepository
     {
         //Student GetStudentById(int StudentId);
+        List<Student> GetStudent();
     }
 }
